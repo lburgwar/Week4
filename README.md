@@ -1,2 +1,2 @@
 # Week4
-The slidify project for week 4
+The shiny project for week 4
